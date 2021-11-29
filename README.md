@@ -1,10 +1,23 @@
-- 👋 Hi, I’m @hazza-astra
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
 
-<!---
-hazza-astra/hazza-astra is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+Hello! I am Hazza.
+---
+
+**major:**
+
+🚀 aeronautical & astronautical engineering
+
+**university:**
+
+🎓 purdue university
+
+**currently learning:**
+
+⭐ django & gdscript 
+
+**working on:**
+
+📌 [astral-realms](https://github.com/hazza-astra/astral-realms)
+
+📌 [hzza-astra.github.io](https://github.com/hazza-astra/hazza-astra.github.io/)
+
+---
