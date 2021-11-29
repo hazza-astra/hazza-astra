@@ -12,7 +12,11 @@ Hello! I am Hazza.
 
 **currently learning:**
 
-⭐ django & gdscript 
+📚 django & gdscript 
+
+**year's goal:**
+
+⭐ research & preliminary preparation to create a fully-realized 2D game engine for astral realms!
 
 **working on:**
 
