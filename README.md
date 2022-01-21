@@ -18,6 +18,8 @@ Hello! I am Hazza.
 
 ⭐ research & preliminary preparation to create a fully-realized 2D game engine for astral realms!
 
+⭐ continued data collection and categorization on the mars cryptic region project.
+
 **working on:**
 
 📌 [astral-realms](https://github.com/hazza-astra/astral-realms)
